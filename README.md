@@ -3,9 +3,9 @@ Spark Funds - asset management
 
 ## Project Brief
 Our work for Spark Funds, an asset management company. Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
-
-:point_right:## [problem Statement](https://github.com/vaibhavhariaramani/Spark-Funds-Investment-CaseStudy/blob/master/Problem-Statement.md)
-
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down:
+## [problem Statement](https://github.com/vaibhavhariaramani/Spark-Funds-Investment-CaseStudy/blob/master/Problem-Statement.md)
+:point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up:
 # objectives
 The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'. (Spark Funds wants to invest where most other investors are investing. This pattern is often observed among early stage startup investors.)
  
@@ -23,27 +23,27 @@ Spark Funds wants to invest where most other investors are investing. This patte
 
 ## [WHAT WE HAVE DONE!!](https://github.com/vaibhavhariaramani/Spark-Funds-Investment-CaseStudy/blob/master/My%20Attempt.ipynb)
 ## Task 1: Data Cleaning
-### Subtask 1.1: Import and read
-### Subtask 1.2: Understand the Dataset
-### Subtask 1.3: Cleaning the Data
+#### Subtask 1.1: Import and read
+#### Subtask 1.2: Understand the Dataset
+#### Subtask 1.3: Cleaning the Data
 #### Dropping unnecessary rows & column
 
 ## Task 2: Funding Type Analysis
-### Subtask 2.1: Retaining the rows with only four investment types.
-### Subtask 2.2: Calculate the average investment amount for each of the four funding types.
- - Average funding amount of venture type
- - Average funding amount of seed type
- - Average funding amount of angel type
- - Average funding amount of private_equity type
+#### Subtask 2.1: Retaining the rows with only four investment types.
+#### Subtask 2.2: Calculate the average investment amount for each of the four funding types.
+###### - Average funding amount of venture type
+###### - Average funding amount of seed type
+###### - Average funding amount of angel type
+###### - Average funding amount of private_equity type
  
 ## Task 3: Country Analysis
-### Subtask 3.1: Analysing the countries based on investment amount
+#### Subtask 3.1: Analysing the countries based on investment amount
 ## Task 4: Sector Analysis 1
-### Subtask 4.1: Extract the primary sector of each category
-### Subtask 4.2: Map each primary sector to one of the eight main sectors
+#### Subtask 4.1: Extract the primary sector of each category
+#### Subtask 4.2: Map each primary sector to one of the eight main sectors
 ## Task 5: Sector Analysis 2
-### Subtask 5.1: Create DataFrames D1, D2, D3 based on three countries
-### Subtask 5.2: Sector-wise Investment Analysis
+#### Subtask 5.1: Create DataFrames D1, D2, D3 based on three countries
+#### Subtask 5.2: Sector-wise Investment Analysis
 
 ## Analysis Result :
 #### Based on the data analysis performed, SparksFunds should invest in -
