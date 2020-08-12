@@ -64,7 +64,9 @@ I am Currently studying at  Chandigarh University, Punjab.
 [My PortFolio](https://vaibhavhariaramani.github.io/)
 You can find me at:-
 [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) .
+
 Email: [vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com)
+
 Download [THE VAIBHAV HARIRAMANI APP](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) consist of Tutorials,Projects,Blogs and Vlogs of our Site developed Using Android Studio with Web View try installing it in your android device.
 
 Happy coding ❤️ .
