@@ -1,6 +1,18 @@
 # Exploratory data analysis(E.D.A.)-Investment-Case Study
 Spark Funds - asset management
 
+
+## Exploratory Data Analysis(EDA)
+
+We will explore a Data set and perform the exploratory data analysis. The major topics to be covered are below:
+
+- Handle Missing value
+- Removing duplicates
+- Outlier Treatment
+- Normalizing and Scaling( Numerical Variables)
+- Encoding Categorical variables( Dummy Variables)
+- Bivariate Analysis
+
 ## Project Brief
 Our work for Spark Funds, an asset management company. Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
 
