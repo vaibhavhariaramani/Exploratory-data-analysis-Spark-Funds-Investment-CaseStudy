@@ -13,7 +13,8 @@ We will explore a Data set and perform the exploratory data analysis. The major 
 - Encoding Categorical variables( Dummy Variables)
 - Bivariate Analysis
 
-# For better understanding about Exploratory Data Analysis(EDA)checkout my blog [My personal data science blog on EDA](https://vaibhavhariaramani.github.io/blogs/EDA/) 
+
+## For better understanding about Exploratory Data Analysis(EDA)checkout my blog [My personal data science blog on EDA](https://vaibhavhariaramani.github.io/blogs/EDA/) 
 
 ## Project Brief
 Our work for Spark Funds, an asset management company. Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
